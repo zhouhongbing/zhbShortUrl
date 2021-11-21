@@ -1,0 +1,9 @@
+url:
+  shorturl:
+    prefix: http://manage.leyou.com/
+  longUrl: https://blog.csdn.net/
+server:
+  port: 9089
+idworker:
+  datacent: 10
+  nodeId: 10
